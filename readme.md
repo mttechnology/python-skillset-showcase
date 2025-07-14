@@ -13,15 +13,5 @@ This repository includes:
 ## 🎯 Purpose
 This repository is crafted as part of my portfolio to demonstrate my Python skills and coding style to potential employers.
 
-## 🛠 Example Topics Covered
-- Object-Oriented Programming (OOP)
-- File I/O and CSV processing
-- REST API using FastAPI
-- Error Handling and Logging
-- Data validation with Pydantic
-- Decorators and Generators
-- Working with external APIs
-
-## 📂 Project Structure
 
 
