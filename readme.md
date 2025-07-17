@@ -13,5 +13,7 @@ This repository includes:
 ## 🎯 Purpose
 This repository is crafted as part of my portfolio to demonstrate my Python skills and coding style to potential employers.
 
-
+## 📂 Project Structure
+- ✔️ 01_currency_converter: Simple currency converter using tuple unpacking and clean Python code.
+    
 
