@@ -15,5 +15,5 @@ This repository is crafted as part of my portfolio to demonstrate my Python skil
 
 ## 📂 Project Structure
 - ✔️ 01_currency_converter: Simple currency converter using tuple unpacking and clean Python code.
+- ✔️ 02_transactions: Processes a list of transactions to calculate the total amount per transaction type and compute the balance of each account.
     
-
