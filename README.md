@@ -18,16 +18,12 @@ Each project is organized in its own directory and includes:
 - A `requirements.txt` if external packages are used
 
 
-## 🔍 Purpose
-
-This repository is crafted as part of my portfolio to demonstrate my Python skills and coding style to potential employers.
-
 ## Included Projects
 
 | Project Name         | Description                                        |
 |----------------------|----------------------------------------------------|
-| 01_currency_converter | Basic currency conversion logic with input/output handling |
-| 02_transactions       | Calculates account balances from banking transactions data |
+| 01-currency-converter | Basic currency conversion logic with input/output handling |
+| 02-transactions       | Calculates account balances from banking transactions data |
 
 
 ## How This Helps You Evaluate Me
