@@ -1,23 +1,29 @@
 # Extract Long Words from Text Using Set Comprehension
 
 ## Overview
-This project demonstrates how to extract unique words that have more than 5 letters from a given text using Python's set comprehension.  
-The process involves cleaning the text, splitting it into words, and filtering words based on length.
+This folder contains two Jupyter notebooks showing different ways to extract unique words from text based on their length.
+- **Set Comprehension**: Finds words with more than 5 characters.
+- **Closure**: Finds words longer than a user-defined length.
+
+## Method 1 – Set Comprehension (>5 characters)
+- Replace punctuation with spaces.
+- Split the text into words using `.split()`.
+- Use a set comprehension to extract unique words longer than 5 characters.
+
+## Method 2 – Closure (Custom length)
+- The outer function sets the minimum word length (`num`).
+- The inner closure function processes the text by:
+  1. Replacing punctuation with spaces
+  2. Splitting the text into words
+  3. Using `filter()` to select words longer than `num` characters
+  4. Creating a set to return unique words
+- The closure returns all unique words that meet the length requirement.
 
 
-## Steps Explained
 
-1. **Replace punctuations with spaces**  
-   To simplify word extraction, all punctuation marks in the text are replaced with spaces.
 
-2. **Split the text into words**  
-   Using the `.split()` method, the cleaned text is converted into a list of words.
 
-3. **Extract long words using set comprehension**  
-   Finally, set comprehension is used to extract unique words that contain more than 5 letters.
 
-## Example
-```python
-text = "This is a sample sentence, to demonstrate the extraction process."
-# After processing, output will be:
-# {'sample', 'sentence', 'demonstrate', 'extraction', 'process'}
+
+
+
