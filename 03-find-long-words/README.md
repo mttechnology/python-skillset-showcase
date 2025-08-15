@@ -17,7 +17,8 @@ This folder contains two Jupyter notebooks showing different ways to extract uni
   2. Splitting the text into words
   3. Using `filter()` to select words longer than `num` characters
   4. Creating a set to return unique words
-- The closure returns all unique words that meet the length requirement.
+  5. Sort 'result' based on the length of each word
+- The closure returns all unique words, sorted by length, that meet the length requirement.
 
 
 
