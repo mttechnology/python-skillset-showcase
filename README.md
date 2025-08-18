@@ -19,11 +19,12 @@ Each project is organized in its own directory and includes:
 
 
 ## Included Projects
-| Project Name          | Description                                                                                  |
-|-----------------------|----------------------------------------------------------------------------------------------|
-| 01-currency-converter | Basic currency conversion logic with input/output handling                                   |
-| 02-transactions       | Calculates account balances from banking transactions data                                   |
-| 03-find-long-words    | Two Jupyter notebooks demonstrating different methods to find words exceeding a specified length in a text — one using set comprehension, and the other using a closure with filter() to extract words |
+| Project Name                | Description                                                                                  |
+|-----------------------------|----------------------------------------------------------------------------------------------|
+| 01-currency-converter       | Basic currency conversion logic with input/output handling                                   |
+| 02-transactions             | Calculates account balances from banking transactions data                                   |
+| 03-find-long-words          | Two Jupyter notebooks demonstrating different methods to find words exceeding a specified length in a text — one using set comprehension, and the other using a closure with filter() to extract words |
+| 04-data-schema-transformer  | Transforms raw sales data into a structured, schema-based dictionary using zip and dictionary comprehension |
 
 
 
